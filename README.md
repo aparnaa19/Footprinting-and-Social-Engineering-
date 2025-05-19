@@ -1,4 +1,4 @@
-# Reconnaissance & OSINT Lab
+# Footprinting and Social Engineering Lab
 
 This project showcases passive footprinting and reconnaissance using a wide range of tools and search techniques.
 

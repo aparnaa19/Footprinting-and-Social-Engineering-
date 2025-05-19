@@ -21,9 +21,3 @@ This project showcases passive footprinting and reconnaissance using a wide rang
 - Used `host`, `dig`, and `zone transfers` to map infrastructure
 - Enumerated open ports and default password risks via Shodan
 
-## 📁 Files
-- `assignment 3.pdf` – Full OSINT workflow and results
-
-## 👩‍💻 Author
-**Aparnaa Mahalaxmi Arulljothi**  
-Student ID: A20560995
